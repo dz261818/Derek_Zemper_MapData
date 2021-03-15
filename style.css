@@ -1,0 +1,22 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family: Avenir, Bold;
+  margin: 0px;
+  padding: 20px;
+  background-color: #C2E6DF;
+}
+
+p {
+  font-family: Avenir;
+  font-size: 20px;
+  margin: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-right: 40px;
+  padding-left: 40px;
+  background-color: #E5F5DC;
+}
